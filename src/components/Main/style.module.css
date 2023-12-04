@@ -1,0 +1,14 @@
+.contact{
+    display: flex;
+
+
+}
+.top{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.editmonth{
+    display: flex;
+    justify-content: center;
+}
